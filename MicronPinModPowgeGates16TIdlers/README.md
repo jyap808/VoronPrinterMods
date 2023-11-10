@@ -1,21 +1,26 @@
-## Micron Pin Mod Powge Gates 16T Idlers
+# Micron Pin Mod for Powge Gates 16T Idlers
 
-Modified from: https://github.com/PrintersForAnts/Micron/tree/main/Mods/hartk1213/Pin_Mod
+This modification extends the compatibility of the Micron Pin Mod to Powge Gates 16T Idlers by adjusting the spacing dimensions. Below are the details and modifications made for seamless integration.
 
-This has been modified to work with the Powge Gates 16T Idlers.
+## Modifications
 
-These Idlers are 9mm tall. The bearing stack for the spec Micron model is 8mm tall. The spacing in the model is 8.6mm.
+- Increased spacing to accommodate Powge Gates 16T Idlers (9mm tall)
+- Adjusted XY joint dimensions for optimal printing at 0.2mm layer height
+  - Left XY joint Lower: Reduced by 0.4mm
+  - Left XY joint Upper: Reduced by 0.6mm
+  - Right XY joint Lower: Reduced by 0.6mm
+  - Right XY joint Upper: Reduced by 0.4mm
 
-The modification made was to increase the space by 1mm.
+## Compatibility
 
-To work nicely with the 0.2mm layer height for printing, the following changes where made:
-* Left XY joint Lower - Reduce by 0.4mm
-* Left XY joint Upper - Reduce by 0.6mm
-* Right XY joint Lower - Reduce by 0.6mm
-* Right XY joint Upper - Reduce by 0.4mm
+Modified from: [Source Repository](https://github.com/PrintersForAnts/Micron/tree/main/Mods/hartk1213/Pin_Mod)
 
-### AliExpress link
+Base model specifications
 
-https://www.aliexpress.us/item/2251832610563322.html
- - Select Bore 3mm with teeth
+- Bearing stack height: 8mm
+- Spacing: 8.6mm
 
+## AliExpress Link (non-affiliate)
+
+[Powge Gates 16T Idlers](https://www.aliexpress.us/item/2251832610563322.html)
+- Select Bore: 3mm with teeth
