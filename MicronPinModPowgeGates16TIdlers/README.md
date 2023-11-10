@@ -12,7 +12,7 @@ To work nicely with the 0.2mm layer height for printing, the following changes w
 * Left XY joint Lower - Reduce by 0.4mm
 * Left XY joint Upper - Reduce by 0.6mm
 * Right XY joint Lower - Reduce by 0.6mm
-* Right XY joing Upper - Reduce by 0.4mm
+* Right XY joint Upper - Reduce by 0.4mm
 
 ### AliExpress link
 
